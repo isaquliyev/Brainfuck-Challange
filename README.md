@@ -26,3 +26,5 @@ It is not known to what extent Müller was aware of or influenced by Böhm's lan
 
 1. **Hello World (No Loops):**
    - Implement the "Hello, World!" program in Brainfuck without using loops.
+2. **Hello World (With Loops):**
+   - Implement the "Hello, World!" program in Brainfuck using loops.
