@@ -28,3 +28,5 @@ It is not known to what extent Müller was aware of or influenced by Böhm's lan
    - Implement the "Hello, World!" program in Brainfuck without using loops.
 2. **Hello World (With Loops):**
    - Implement the "Hello, World!" program in Brainfuck using loops.
+3. **Addition of two numbers:**
+   - Print Addition of two one digit integers which sum of them is not greater than 10 following by a new line.
